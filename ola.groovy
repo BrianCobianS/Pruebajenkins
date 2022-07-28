@@ -17,5 +17,4 @@ job('ejemplo2-job-DSL') {
   	steps {
     		shell("bash jobscript.sh")
     	}
-    	}
 }
